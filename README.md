@@ -11,7 +11,7 @@ Explore the monthly trends in the waiting list for both the Inpatient and Outpat
 Dive deep into detailed analyses, including specialty-wise distribution and age profiles of patients on the waiting list.
 
 **Report Snapshot (Power BI Desktop)**
-![Dashboard_upload](https://github.com/RavishaJain/Health_PowerBI/blob/main/Dashboard_pics/Summary.png)
+![Dashboard_upload]([https://github.com/RavishaJain/Health_PowerBI/blob/main/Dashboard_pics/Summary.png])
 **Insights:**
 A double-page report was created on Power BI Desktop & it was then published to Power BI Service
 **Project Development Steps:**
