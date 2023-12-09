@@ -14,32 +14,32 @@ Dive deep into detailed analyses, including specialty-wise distribution and age 
 
 **Requirement Gathering:**
 
-1. Identified stakeholders and business objectives.
+Step 1. Identified stakeholders and business objectives.
 Conducted a high-level study of the health care data and defined the scope of the project.
 
-2. Data Collection:
+Step 2. Data Collection:
 Utilized Power BI Folder Data Connectors to gather data from multiple sources.
 
-3. Data Transformation & Modeling:
+Step 3. Data Transformation & Modeling:
 Ensured data quality by checking data types and the number of rows loaded.
 Merged Inpatient and Outpatient datasets, addressing any column name discrepancies.
 
-4. Data Visualization Blueprint:
+Step 4. Data Visualization Blueprint:
 Gained a comprehensive understanding of the data through transformation and modeling.
 Designed a visualization blueprint with two main pages: Summary Page and Detailed Page.
 
-5. Dashboard Layout & Design:
+Step 5. Dashboard Layout & Design:
 Implemented the design using DAX expressions to create meaningful measures.
 Developed a visually appealing dashboard with a focus on user experience.
 
-6. Adding Interactivity/Navigation & Testing:
+Step 6. Adding Interactivity/Navigation & Testing:
 Incorporated interactions among pages for a seamless user experience.
 Conducted thorough testing to ensure the accuracy and reliability of the dashboard.
 
-7. Publish the Dashboard:
+Step 7. Publish the Dashboard:
 Published the finalized dashboard to the Power BI platform for easy access.
 
-8. BAU Refresh Process:
+Step 8. BAU Refresh Process:
 Set up a Business as Usual (BAU) refresh process to keep the dashboard up-to-date with the latest data.
 
 **Explore, Analyze, and Empower:**
