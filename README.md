@@ -10,6 +10,10 @@ Explore the monthly trends in the waiting list for both the Inpatient and Outpat
 3. Specialty Level & Age Profile Analysis:
 Dive deep into detailed analyses, including specialty-wise distribution and age profiles of patients on the waiting list.
 
+**Report Snapshot (Power BI Desktop)**
+![Dashboard_upload]()
+**Insights:**
+A double-page report was created on Power BI Desktop & it was then published to Power BI Service
 **Project Development Steps:**
 
 **Requirement Gathering:**
